@@ -19,5 +19,14 @@
     "stack": "React, TailwindCSS, MongoDB",
     "github": "https://github.com/andre-0303",
     "image": "assets/images/bandeira.jpg"
-  }
+  },
+
+ {
+  "name": "Pedro Renan",
+  "role": "Dev Front End",
+  "stack": "HTML, CSS, JavaScript",
+  "github": "https://github.com/renan1213",
+  "image": "assets/images/Renan.jpeg"
+}
 ]
+
